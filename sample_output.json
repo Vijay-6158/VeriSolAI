@@ -1,0 +1,11 @@
+{
+  "coordinate": { "latitude": 17.385044, "longitude": 78.486671 },
+  "timestamp_utc": "2025-11-24T12:00:00Z",
+  "model_version": "verisolai-0.1",
+  "has_solar": true,
+  "panel_area_m2": 32.5,
+  "estimated_capacity_kw": 3.2,
+  "qc_status": "VERIFIABLE",
+  "reason_codes": ["rectilinear_array", "consistent_grid"],
+  "confidence": 0.94
+}
