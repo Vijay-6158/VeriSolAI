@@ -1,1 +1,3 @@
-# VeriSolAI
+# VeriSolAI — Governance-Ready Rooftop Solar Verifier
+
+VeriSolAI is an AI-driven, auditable, and cost-efficient digital pipeline designed to verify rooftop solar installations from satellite imagery. At any given coordinate, the system automatically fetches rooftop images, detects solar panels, estimates area and capacity, and produces a transparent verification report with visual evidence and reason codes. The project focuses on creating a governance-ready framework that promotes transparency, trust, and scalability under the PM Surya Ghar Yojana. Designed for real-world deployment, VeriSolAI ensures data authenticity, reproducibility, and inclusive energy monitoring for India’s solar mission.
